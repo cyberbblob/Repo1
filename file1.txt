@@ -1,2 +1,1 @@
-This is an introduction to linu:wq
-
+This is an introduction to linux
